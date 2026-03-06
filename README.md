@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Ahmet Demir 👋</h1>
-<h3 align="center">Farklı Teknolojileri Deneyimlemeyi ve Üretmeyi Seven Bilgisayar Mühendisliği Öğrencisi</h3>
+<h3 align="center">Yazılım ve Donanımın Kesiştiği Yerde Projeler Üreten Bilgisayar Mühendisliği Öğrencisi</h3>
 
 <p align="center">
   <a href="mailto:ahmetdemirceng@gmail.com">
