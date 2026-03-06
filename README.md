@@ -14,7 +14,7 @@
 - 🎓 **Eğitim:** Karadeniz Teknik Üniversitesi (KTÜ) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 - 🚀 **Şu An:** Arch of Sigma'da Bilgi Teknolojileri stajıma devam ediyor, React Native ve yapay zeka destekli projeler geliştiriyorum.
 - 🏆 **Gurur Tablosu:** Creatiny Hyperloop takımında Yazılım Birimi Kaptanı olarak görev aldım. Ekibimizle **TEKNOFEST Hyperloop Türkiye Birinciliği** elde ettik!
-- 🔭 **Odak Noktalarım:** Backend Geliştirme (.NET Core, C#), Gömülü Sistemler (VHDL, Raspberry Pi, Arduino), Siber Güvenlik (Kriptografi) ve 3D Modelleme (Blender).
+- 🔭 **Odak Noktalarım:** Backend Geliştirme (.NET Core, C#), Gömülü Sistemler (VHDL, Raspberry Pi, Arduino), Siber Güvenlik (Kriptografi).
 
 ---
 
@@ -25,6 +25,7 @@
 * 🚄 **Hyperloop Gömülü Yazılım & Kontrol:** TEKNOFEST şampiyonu aracımızın Raspberry Pi ve Arduino entegrasyonlarını, araç içi haberleşme sistemlerini ve Flutter tabanlı kontrol panelinin (UI) geliştirilme süreçlerini yürüttüm.
 * 🏋️ **Gym Management System (Web):** C# ve .NET Core kullanarak RESTful API mimarisiyle tasarladığım, SQL veritabanı destekli spor salonu yönetim projesi.
 * 🤖 **AsistanApp:** Kullanıcının duygu durumunu yapay zeka ile analiz eden, JavaScript tabanlı React Native mobil uygulaması.
+* 🏢 **Asansör Kontrol Sistemi (VHDL):** VHDL kullanılarak 4 katlı bir bina için tasarlanmış donanım projesi. FSM (Sonlu Durum Makinesi) modellemesi ve sıralı devre tasarımı içerir.
 * 🍔 **Terminal Tabanlı Sipariş Uygulaması:** Saf C dili ile geliştirilmiş; bellek yönetimi, menü yönetimi ve hesaplama algoritmalarını barındıran terminal tabanlı sistem.
 
 ---
@@ -36,7 +37,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="VHDL" />
 </p>
 <p align="center">
@@ -60,27 +60,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetDemiir&theme=tokyonight" alt="Ahmet's GitHub Streak" width="48%" />
 </p>
 
-
-
-
-# Merhaba! Ben Ahmet Demir 👋
-
-Yazılım ve donanım dünyasının kesişiminde projeler geliştirmeyi seven bir Bilgisayar Mühendisliği öğrencisiyim.
-
-### 🚀 Hakkımda
-- 🎓 Karadeniz Teknik Üniversitesi'nde (KTÜ) 3. Sınıf öğrencisiyim.
-- 💻 Daha önce Creatiny Hyperloop takımında Yazılım Birimi Kaptanı olarak görev aldım.
-- 🏢 Şu anda Arch of Sigma'da Bilgi Teknolojileri Staj Programı'na devam ediyorum.
-- 🔐 Siber güvenlik (kriptografi, sızma testleri), VHDL ile dijital devre tasarımı ve React Native ile yapay zeka entegreli mobil uygulamalar geliştirmeye özel bir ilgim var.
-- 🎨 Boş zamanlarımda 3D modelleme (Blender) ile uğraşıyor ve borsa/halka arz analizleri yapıyorum.
-
-### 🛠️ Teknolojiler & Araçlar
-- **Diller:** C#, C, ARM Assembly, JavaScript, VHDL, Dart
-- **Teknolojiler:** React Native, Flutter
-- **Araçlar:** ModelSim, AutoCAD, Nmap, Blender
-
-### 📊 GitHub İstatistiklerim
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetDemiir&show_icons=true&theme=radium" alt="Ahmet's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetDemiir&layout=compact&theme=radium" alt="Top Langs" />
-</div>
