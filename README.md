@@ -60,9 +60,6 @@
 ### 📊 GitHub Etkinliklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetDemiir&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="45%" />
-
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetDemiir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetDemiir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
