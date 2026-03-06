@@ -61,25 +61,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetDemiir&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="45%" />
+
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetDemiir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
 </p>
 
-
-
-
-
-
-
-
-
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetDemiir&show_icons=true&theme=tokyonight&locale=tr" alt="Ahmet's GitHub stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetDemiir&theme=tokyonight" alt="Ahmet's GitHub Streak" />
-</p>
