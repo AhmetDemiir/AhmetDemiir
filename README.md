@@ -1,7 +1,10 @@
 <h1 align="center">Merhaba, Ben Ahmet Demir 👋</h1>
-<h3 align="center">Yazılım ve Donanımın Kesiştiği Yerde Projeler Üreten Bilgisayar Mühendisliği Öğrencisi</h3>
+<h3 align="center">Farklı Teknolojileri Deneyimlemeyi ve Üretmeyi Seven Bilgisayar Mühendisliği Öğrencisi</h3>
 
 <p align="center">
+  <a href="mailto:ahmetdemirceng@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://linkedin.com/in/ahmetdemirceng" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -12,25 +15,26 @@
 ### 👨‍💻 Kısa Kısa Ben
 
 - 🎓 **Eğitim:** Karadeniz Teknik Üniversitesi (KTÜ) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
-- 🚀 **Şu An:** Arch of Sigma'da Bilgi Teknolojileri stajıma devam ediyor, React Native ve yapay zeka destekli projeler geliştiriyorum.
+- 🚀 **Şu An:** Arch of Sigma'da Bilgi Teknolojileri stajıma devam ediyorum.
 - 🏆 **Gurur Tablosu:** Creatiny Hyperloop takımında Yazılım Birimi Kaptanı olarak görev aldım. Ekibimizle **TEKNOFEST Hyperloop Türkiye Birinciliği** elde ettik!
-- 🔭 **Odak Noktalarım:** Backend Geliştirme (.NET Core, C#), Gömülü Sistemler (VHDL, Raspberry Pi, Arduino), Siber Güvenlik (Kriptografi).
+- 🌱 **Öğrenme Sürecim:** Derslerimden kalan vakitlerde yeni diller ve araçlar denemeyi seviyorum. C#, React Native ve VHDL gibi alanlarda projeler geliştirirken, problem çözme hızımı artırmak için yapay zeka (AI) araçlarını aktif ve verimli bir şekilde kullanıyorum.
 
 ---
 
-### 🔥 Öne Çıkan Projelerim & Deneyimlerim
+### 🔥 Geliştirdiğim ve Katkı Sağladığım Projeler
 
-> Teorik bilgileri pratiğe döktüğüm bazı temel çalışmalarım:
+> Merak edip üzerine çalıştığım, kimisinde kod yazdığım kimisinde yapay zeka araçlarıyla destek alarak ayağa kaldırdığım çalışmalarım:
 
-* 🚄 **Hyperloop Gömülü Yazılım & Kontrol:** TEKNOFEST şampiyonu aracımızın Raspberry Pi ve Arduino entegrasyonlarını, araç içi haberleşme sistemlerini ve Flutter tabanlı kontrol panelinin (UI) geliştirilme süreçlerini yürüttüm.
-* 🏋️ **Gym Management System (Web):** C# ve .NET Core kullanarak RESTful API mimarisiyle tasarladığım, SQL veritabanı destekli spor salonu yönetim projesi.
-* 🤖 **AsistanApp:** Kullanıcının duygu durumunu yapay zeka ile analiz eden, JavaScript tabanlı React Native mobil uygulaması.
-* 🏢 **Asansör Kontrol Sistemi (VHDL):** VHDL kullanılarak 4 katlı bir bina için tasarlanmış donanım projesi. FSM (Sonlu Durum Makinesi) modellemesi ve sıralı devre tasarımı içerir.
-* 🍔 **Terminal Tabanlı Sipariş Uygulaması:** Saf C dili ile geliştirilmiş; bellek yönetimi, menü yönetimi ve hesaplama algoritmalarını barındıran terminal tabanlı sistem.
+* 🚄 **Hyperloop Gömülü Yazılım & Kontrol:** TEKNOFEST şampiyonu aracımızın Raspberry Pi ve Arduino entegrasyonlarında, araç içi haberleşme sistemlerinde ve Flutter tabanlı kontrol panelinin geliştirilme süreçlerinde yer aldım.
+* 🏢 **Asansör Kontrol Sistemi (VHDL):** Donanım dersleri kapsamında VHDL kullanarak 4 katlı bir bina için tasarladığım, FSM (Sonlu Durum Makinesi) mantığını kavramamı sağlayan proje.
+* 🍔 **Terminal Tabanlı Yemek Sipariş Sistemi (C):** Temel algoritma ve bellek yönetimi mantığını oturtmak için C dili ile geliştirdiğim sipariş uygulaması.
+* 🏋️ **Gym Management System (Web):** Backend mimarilerini anlamak amacıyla C# ve .NET Core ile geliştirdiğim, SQL destekli yönetim sistemi denemesi.
+* 🤖 **AsistanApp:** Kullanıcının duygu durumunu analiz eden, React Native ile tasarladığım mobil uygulama.
+* 🔐 **Güvenli Mesajlaşma:** Kriptografik şifreleme yöntemlerinin nasıl çalıştığını anlamak için C# ile hazırladığım mesajlaşma projesi.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+### 🛠️ Deneyimlediğim Teknolojiler
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -57,7 +61,8 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetDemiir&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetDemiir&theme=tokyonight" alt="Ahmet's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmetDemiir&show_icons=true&theme=tokyonight&locale=tr" alt="Ahmet's GitHub stats" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetDemiir&theme=tokyonight" alt="Ahmet's GitHub Streak" />
+</p>
